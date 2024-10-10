@@ -10,7 +10,7 @@ metadata:
   labels:
     org_id: "org_BneDtWovPqXaA2VZ"
     integration_identifier: "gitlab"
-    integration_id: "integration_QbNockuCdF2e4cGJ"
+    integration_id: "integration_nlOO7h8JU9fQq6Mr"
 spec:
   project: ocean
   source:
@@ -27,7 +27,7 @@ spec:
         - name: global.dynamodbTable
           value: "local-organization-secrets"
         - name: global.configNameToItemName.OCEAN__INTEGRATION__CONFIG__TOKEN_MAPPING
-          value: "org_BneDtWovPqXaA2VZ/global/oauth2-gitlab-gitlab-tokenMapping"
+          value: "org_BneDtWovPqXaA2VZ/global/a"
         - name: ocean.integration.config.gitlabHost
           value: "https://gitlab.com"
         - name: ocean.integration.config.useSystemHook
