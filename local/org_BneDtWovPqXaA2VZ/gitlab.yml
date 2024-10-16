@@ -10,7 +10,7 @@ metadata:
   labels:
     org_id: "org_BneDtWovPqXaA2VZ"
     integration_identifier: "gitlab"
-    integration_id: "integration_oBWaQ5iS12bQ4ZEQ"
+    integration_id: "integration_VjbDdIOldZGQNOED"
 spec:
   project: ocean
   source:
